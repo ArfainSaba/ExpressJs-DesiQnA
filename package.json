@@ -1,0 +1,14 @@
+{
+  "name": "expressjscourse",
+  "version": "1.0.0",
+  "description": "here we will be understanding basic express codes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Arfain Saba",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.0.2"
+  }
+}
